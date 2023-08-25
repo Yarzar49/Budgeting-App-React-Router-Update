@@ -602,9 +602,3 @@ table a {
 .Toastify__toast-body {
   font-size: var(--fs-300);
 }
-
-/* Custom CSS for bold toast message */
-.bold-toast-message {
-  color: black;
-  font-weight: bold;
-}
